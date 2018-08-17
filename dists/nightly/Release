@@ -1,0 +1,37 @@
+Origin: JSXC – The Open Chat (nightly)
+Label: JSXC – The Open Chat (nightly)
+Codename: nightly
+Date: Fri, 17 Aug 2018 19:20:31 UTC
+Architectures: i386 amd64 arm64
+Components: main
+Description: Nightly apt repository for JSXC and friends
+MD5Sum:
+ 0e2f7c2002598ee59d33fda3449d7cd3 901 main/binary-i386/Packages
+ be544d1c5dd6aab76c682258f5f620fa 588 main/binary-i386/Packages.gz
+ 4754dee2aaa98f1a20b6278bb17d33e6 173 main/binary-i386/Release
+ 0e2f7c2002598ee59d33fda3449d7cd3 901 main/binary-amd64/Packages
+ be544d1c5dd6aab76c682258f5f620fa 588 main/binary-amd64/Packages.gz
+ 10bb2688a512bb29e5277d594d9ab7f4 174 main/binary-amd64/Release
+ 0e2f7c2002598ee59d33fda3449d7cd3 901 main/binary-arm64/Packages
+ be544d1c5dd6aab76c682258f5f620fa 588 main/binary-arm64/Packages.gz
+ f23ecb37d938ca05cd5f7d8c1a57026b 174 main/binary-arm64/Release
+SHA1:
+ 3e22df166b875614e8325d66be55ff64323f7bb1 901 main/binary-i386/Packages
+ dd83fa0031239ddeeeee7a1b74a977ec20ab551a 588 main/binary-i386/Packages.gz
+ 741687df09f3d1e3fa683e1fd60ab301ab8067cf 173 main/binary-i386/Release
+ 3e22df166b875614e8325d66be55ff64323f7bb1 901 main/binary-amd64/Packages
+ dd83fa0031239ddeeeee7a1b74a977ec20ab551a 588 main/binary-amd64/Packages.gz
+ 448660ab1d91e99c74a20c091adbf3fd1734ee10 174 main/binary-amd64/Release
+ 3e22df166b875614e8325d66be55ff64323f7bb1 901 main/binary-arm64/Packages
+ dd83fa0031239ddeeeee7a1b74a977ec20ab551a 588 main/binary-arm64/Packages.gz
+ 21408af3eb3671bb2137321211216e1628d30725 174 main/binary-arm64/Release
+SHA256:
+ 8002f6e59d89b84e0db91635165131d72001643599a7b3e74b282536c926a24f 901 main/binary-i386/Packages
+ 207259b66541109dc840b8be9d593a3659e7e68d9cd586548193c9a65c44f95e 588 main/binary-i386/Packages.gz
+ 1825446a265da3b4db880a39fbab88d1db72a0ca78d9c284748fc231b51be5eb 173 main/binary-i386/Release
+ 8002f6e59d89b84e0db91635165131d72001643599a7b3e74b282536c926a24f 901 main/binary-amd64/Packages
+ 207259b66541109dc840b8be9d593a3659e7e68d9cd586548193c9a65c44f95e 588 main/binary-amd64/Packages.gz
+ 6398e912d5ea48f6ae37511ba9b7065cfdbd4adf0286cdfb417cfa85687876a6 174 main/binary-amd64/Release
+ 8002f6e59d89b84e0db91635165131d72001643599a7b3e74b282536c926a24f 901 main/binary-arm64/Packages
+ 207259b66541109dc840b8be9d593a3659e7e68d9cd586548193c9a65c44f95e 588 main/binary-arm64/Packages.gz
+ 7a5ec92f24df2bd3cf87b242964fd02dc9fb248dfcceba2fcd28ab7676776c00 174 main/binary-arm64/Release

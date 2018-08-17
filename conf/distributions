@@ -1,17 +1,17 @@
 Origin: JSXC – The Open Chat (nightly)
 Label: JSXC – The Open Chat (nightly)
-Codename: bionic-nightly
+Codename: nightly
 Architectures: i386 amd64 arm64
 Components: main
-Description: Apt repository for JSXC and friends
+Description: Nightly apt repository for JSXC and friends
 SignWith: 506EE931D3F0AFC75DEE660C51FAB7DDFFDB715E
 
 Origin: JSXC – The Open Chat
 Label: JSXC – The Open Chat
-Codename: bionic
+Codename: stable
 Architectures: i386 amd64 arm64
 Components: main
-Description: Apt repository for JSXC and friends
+Description: Release apt repository for JSXC and friends
 SignWith: 506EE931D3F0AFC75DEE660C51FAB7DDFFDB715E
 
 
