@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: JSXC – The Open Chat (nightly)
+Label: JSXC – The Open Chat (nightly)
+Codename: bionic-nightly
+Date: Fri, 17 Aug 2018 18:58:39 UTC
+Architectures: i386 amd64 arm64
+Components: main
+Description: Apt repository for JSXC and friends
+MD5Sum:
+ 0e2f7c2002598ee59d33fda3449d7cd3 901 main/binary-i386/Packages
+ be544d1c5dd6aab76c682258f5f620fa 588 main/binary-i386/Packages.gz
+ b7f36fe06651fb79aa8f0cb600722e6f 165 main/binary-i386/Release
+ 0e2f7c2002598ee59d33fda3449d7cd3 901 main/binary-amd64/Packages
+ be544d1c5dd6aab76c682258f5f620fa 588 main/binary-amd64/Packages.gz
+ 3b688a2d60104d27368b1d03296bc679 166 main/binary-amd64/Release
+ 0e2f7c2002598ee59d33fda3449d7cd3 901 main/binary-arm64/Packages
+ be544d1c5dd6aab76c682258f5f620fa 588 main/binary-arm64/Packages.gz
+ 9e6f403465940e79dab6798cab6b83da 166 main/binary-arm64/Release
+SHA1:
+ 3e22df166b875614e8325d66be55ff64323f7bb1 901 main/binary-i386/Packages
+ dd83fa0031239ddeeeee7a1b74a977ec20ab551a 588 main/binary-i386/Packages.gz
+ 5ef0e8c095fb60cf092801f534087560d068312a 165 main/binary-i386/Release
+ 3e22df166b875614e8325d66be55ff64323f7bb1 901 main/binary-amd64/Packages
+ dd83fa0031239ddeeeee7a1b74a977ec20ab551a 588 main/binary-amd64/Packages.gz
+ de235c270c95e1ba6193f85195ced07dc0ff83ba 166 main/binary-amd64/Release
+ 3e22df166b875614e8325d66be55ff64323f7bb1 901 main/binary-arm64/Packages
+ dd83fa0031239ddeeeee7a1b74a977ec20ab551a 588 main/binary-arm64/Packages.gz
+ a097eb3037b2c99acbad1733824214d534ad6546 166 main/binary-arm64/Release
+SHA256:
+ 8002f6e59d89b84e0db91635165131d72001643599a7b3e74b282536c926a24f 901 main/binary-i386/Packages
+ 207259b66541109dc840b8be9d593a3659e7e68d9cd586548193c9a65c44f95e 588 main/binary-i386/Packages.gz
+ 453161fa52746a7e7e7dfd51ce4a00841ed849ebd3193a82acd330de7d645f41 165 main/binary-i386/Release
+ 8002f6e59d89b84e0db91635165131d72001643599a7b3e74b282536c926a24f 901 main/binary-amd64/Packages
+ 207259b66541109dc840b8be9d593a3659e7e68d9cd586548193c9a65c44f95e 588 main/binary-amd64/Packages.gz
+ 10d8955eed003c65b579a96c44e41e05ea268759324276839b0a0148a8011722 166 main/binary-amd64/Release
+ 8002f6e59d89b84e0db91635165131d72001643599a7b3e74b282536c926a24f 901 main/binary-arm64/Packages
+ 207259b66541109dc840b8be9d593a3659e7e68d9cd586548193c9a65c44f95e 588 main/binary-arm64/Packages.gz
+ 2e11ce1e091c2aabaf27e6b855b9fa82b3630980f9d0bad6ce024395b5a5506c 166 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEUG7pMdPwr8dd7mYMUfq33f/bcV4FAlt3GuYACgkQUfq33f/b
+cV4euwwAiYKCDSs0ZB4v50uQHDy1rF6myfqAX5Dka/OZnitUG+sCTlCmi7TP0S08
+Tw1v67Om6Ev+MGauaDhQiDswUQnfhPmRsxQfoAl2Rzs8/dvnazWPIHmz7u8ra2jb
+rkUJ/FtC/x2pZyeRj4ymUyLPdMZ008lq6sJyrQ45t7IFybpl2X9ADksXOnL3yHAI
+U64lkY1KmYGqrS3yj8iP7iINqpBTwJDYpRa1plFeTnXXkU/0CwdK7rbKE5RN7Bs4
+notWCSLilsUOFeJVHcia0w+Yc7m8ULjFBVuTDWSFQgXrMfKr6fC0J3eb3Fc6RFBO
+9MLTRBCglXDe/109FMscPRjbYXNtyPB/o4wlb4fotYmo8xR7IF4QwiSG46qzWI0Q
+0LkoDzabBPql6Pfm6ITwCQBSGYg8AlHQS+qolFITQt0yaptfWX0ZdfAP0y7PjAmi
+EajuZ+jLdwDGcN1r60lqsF++AdjjInYvr9nqnlzbxP14xCGcH+uRvtYcszVYJ3Ut
+mfnbAiE6
+=wGkD
+-----END PGP SIGNATURE-----
