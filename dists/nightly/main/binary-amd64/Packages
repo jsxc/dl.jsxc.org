@@ -1,9 +1,9 @@
 Package: xcauth
-Source: xcauth (1.0.0-186-g1bd3d73-1)
-Version: 1.0.0-186-g1bd3d73-0~18.040
+Source: xcauth (1.0.0-187-gb879d82-1)
+Version: 1.0.0-187-gb879d82-0~18.040
 Architecture: all
 Maintainer: Marcel Waldvogel <marcel@jsxc.ch>
-Installed-Size: 261
+Installed-Size: 262
 Depends: python3, python3-requests, python3-configargparse, python3-bcrypt, adduser
 Recommends: socket
 Suggests: ejabberd (>= 18.06.0), prosody, lua-lpty, postfix, python3-bsddb3
@@ -11,11 +11,11 @@ Enhances: ejabberd, postfix, prosody
 Homepage: https://www.jsxc.org
 Priority: optional
 Section: utils
-Filename: pool/main/x/xcauth/xcauth_1.0.0-186-g1bd3d73-0~18.040_all.deb
-Size: 62028
-SHA256: 3be4ac4aa9793d95f8c9caa05ce45c8229dc7979d099b6c81c21cb76fab0e592
-SHA1: e27084a066db00a3abab1ed6c072aa1c4077dd2b
-MD5sum: 7aaa14d9700fb114016a136aa15151b4
+Filename: pool/main/x/xcauth/xcauth_1.0.0-187-gb879d82-0~18.040_all.deb
+Size: 62036
+SHA256: a13c563ca6b8fb14e8033c95688b2196d7185a1d3de1009bf3df94049ef92c54
+SHA1: aa61bfaaaeecf2dc9cd171056660ae44e1b42d70
+MD5sum: 4f557eab586438d1afb4ade2ebf5f4dd
 Description: Nextcloud+JSXC authentication hub for XMPP
  Pass on Nextcloud credentials, groups, application-specific passwords,
  and time-limited tokens to ejabberd, Prosody, saslauthd, and postfix.
