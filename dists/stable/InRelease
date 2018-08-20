@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: JSXC – The Open Chat
+Label: JSXC – The Open Chat
+Codename: stable
+Date: Mon, 20 Aug 2018 14:42:08 UTC
+Architectures: i386 amd64 arm64
+Components: main
+Description: Release apt repository for JSXC and friends
+MD5Sum:
+ f12f088f7787c304e378e1836bc4f865 862 main/binary-i386/Packages
+ cd196a5db309d788d7700a2a36e84c62 577 main/binary-i386/Packages.gz
+ 7f41b01c7687b69fb1a189685ac84d71 153 main/binary-i386/Release
+ f12f088f7787c304e378e1836bc4f865 862 main/binary-amd64/Packages
+ cd196a5db309d788d7700a2a36e84c62 577 main/binary-amd64/Packages.gz
+ f3ceba7c1f13f4cf6f93493f6c8437ac 154 main/binary-amd64/Release
+ f12f088f7787c304e378e1836bc4f865 862 main/binary-arm64/Packages
+ cd196a5db309d788d7700a2a36e84c62 577 main/binary-arm64/Packages.gz
+ 6758b4fcf4fcc7f43a08298fb16d8ac5 154 main/binary-arm64/Release
+SHA1:
+ b37bb1814a2b90761937acd138e5eae3030048b4 862 main/binary-i386/Packages
+ 442b8a01e22496b352900773f55569c8d6436c0d 577 main/binary-i386/Packages.gz
+ d7633cd8e6d6e20ca79d4f961fc74c7f6687ae00 153 main/binary-i386/Release
+ b37bb1814a2b90761937acd138e5eae3030048b4 862 main/binary-amd64/Packages
+ 442b8a01e22496b352900773f55569c8d6436c0d 577 main/binary-amd64/Packages.gz
+ a1866fb07752adedcaf4def4323e55d54d4da9b4 154 main/binary-amd64/Release
+ b37bb1814a2b90761937acd138e5eae3030048b4 862 main/binary-arm64/Packages
+ 442b8a01e22496b352900773f55569c8d6436c0d 577 main/binary-arm64/Packages.gz
+ a4181215dfd9b4e9c64eef29d7a4eaa0a3a55f58 154 main/binary-arm64/Release
+SHA256:
+ 7987511447ddd89b7a5407d1f3793deefb93146f6db9d05506704eb6cf9688a1 862 main/binary-i386/Packages
+ 14ce10d066db1a6e5f1e1e6b36f163a2980c81057a822b640c08b9e700f7de94 577 main/binary-i386/Packages.gz
+ 349303cad2161103e732794e3268d8606d19ee36b4691288974b811e40015790 153 main/binary-i386/Release
+ 7987511447ddd89b7a5407d1f3793deefb93146f6db9d05506704eb6cf9688a1 862 main/binary-amd64/Packages
+ 14ce10d066db1a6e5f1e1e6b36f163a2980c81057a822b640c08b9e700f7de94 577 main/binary-amd64/Packages.gz
+ a8ea7a4833850ad92415a49d429969540e2767a59a6ef82d96cbb2905f268cb6 154 main/binary-amd64/Release
+ 7987511447ddd89b7a5407d1f3793deefb93146f6db9d05506704eb6cf9688a1 862 main/binary-arm64/Packages
+ 14ce10d066db1a6e5f1e1e6b36f163a2980c81057a822b640c08b9e700f7de94 577 main/binary-arm64/Packages.gz
+ 75a29e5c8605a8ffeb03097d3c9c85e37a277c3a2bd9c67b01e5a396877740d2 154 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEUG7pMdPwr8dd7mYMUfq33f/bcV4FAlt600AACgkQUfq33f/b
+cV42RQv/SM4oMH65+vOTU49S+sJCdYi8acJlZio45kO19RUmaeeoiBMWhnJsHUWF
+7zRMsXBgRXfQ8cYhMxvn5Ms+G1786GjHL117Gs3TzHSH/IqOpUfKp94Ze4lIY8jS
+NYfC0NATmKGbGZzmpX2jruuHcPIk67nJKYJZOUubyf7Idca3pORIssdEk1QJMdce
+ZJy+vQLKhw9m6e85zQVpSBWlRq7KMNwQM3TqPCjGLzKJFAnMW2Rwuk1LN2HbEOth
+0xfNU4dNnhs/3GklfWxHg5DG+QTpqMRmd5xBdbszcEW0im7KY4ZhojSWeUD8B2E4
+pW/Ivtdhge8Nqel/YRgvkjOOGLAp7Q1fQjQOkYnCLQwVcwNmOlLvjlXxqd94JH9u
+jW5chN9W7GIN5+egpFPPn74HDt4HH8URD3WXXuep+iygQXNf0jHJHnCvAdoaSdOw
+PIrVa/cQmtpmjoWwBkTSfA3R9Fb9c+f2ha767YdTVhNyhczKHJM51kjaPnzy5xM/
+NS4Ub32d
+=Kd0j
+-----END PGP SIGNATURE-----
