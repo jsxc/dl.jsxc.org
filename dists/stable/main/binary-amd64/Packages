@@ -1,6 +1,6 @@
 Package: xcauth
-Source: xcauth (2.0.0-1)
-Version: 2.0.0-0~18.040
+Source: xcauth (2.0.1-1)
+Version: 2.0.1-0~18.040
 Architecture: all
 Maintainer: Marcel Waldvogel <marcel@jsxc.ch>
 Installed-Size: 262
@@ -11,11 +11,11 @@ Enhances: ejabberd, postfix, prosody
 Homepage: https://www.jsxc.org
 Priority: optional
 Section: utils
-Filename: pool/main/x/xcauth/xcauth_2.0.0-0~18.040_all.deb
-Size: 62080
-SHA256: e6bd3e01b079c03967628ee13c49cf1c324a23f11a00edcb99aea8582127c033
-SHA1: 09b924b2a671bdf6c6d3c7560045a53a78c34875
-MD5sum: 14d13039f4ae92881945bc651e69fbf3
+Filename: pool/main/x/xcauth/xcauth_2.0.1-0~18.040_all.deb
+Size: 62504
+SHA256: 0dd3ec58f57cc31f261589e370692c2efbb3f7e59c01baba39f670aec0a19195
+SHA1: 51273c1a67d5b616233e7fb81d0eefdd9995eef4
+MD5sum: f9d3f86a3c8b50021a641336b536eb94
 Description: Nextcloud+JSXC authentication hub for XMPP
  Pass on Nextcloud credentials, groups, application-specific passwords,
  and time-limited tokens to ejabberd, Prosody, saslauthd, and postfix.

@@ -1,37 +1,37 @@
 Origin: JSXC – The Open Chat
 Label: JSXC – The Open Chat
 Codename: stable
-Date: Mon, 20 Aug 2018 14:42:08 UTC
+Date: Tue, 21 Aug 2018 12:53:01 UTC
 Architectures: i386 amd64 arm64
 Components: main
 Description: Release apt repository for JSXC and friends
 MD5Sum:
- f12f088f7787c304e378e1836bc4f865 862 main/binary-i386/Packages
- cd196a5db309d788d7700a2a36e84c62 577 main/binary-i386/Packages.gz
+ bb8f248b1fc106b5aba85f60d54f08ed 862 main/binary-i386/Packages
+ bdb47ccf1678cccc6a7e6fe887ede1be 577 main/binary-i386/Packages.gz
  7f41b01c7687b69fb1a189685ac84d71 153 main/binary-i386/Release
- f12f088f7787c304e378e1836bc4f865 862 main/binary-amd64/Packages
- cd196a5db309d788d7700a2a36e84c62 577 main/binary-amd64/Packages.gz
+ bb8f248b1fc106b5aba85f60d54f08ed 862 main/binary-amd64/Packages
+ bdb47ccf1678cccc6a7e6fe887ede1be 577 main/binary-amd64/Packages.gz
  f3ceba7c1f13f4cf6f93493f6c8437ac 154 main/binary-amd64/Release
- f12f088f7787c304e378e1836bc4f865 862 main/binary-arm64/Packages
- cd196a5db309d788d7700a2a36e84c62 577 main/binary-arm64/Packages.gz
+ bb8f248b1fc106b5aba85f60d54f08ed 862 main/binary-arm64/Packages
+ bdb47ccf1678cccc6a7e6fe887ede1be 577 main/binary-arm64/Packages.gz
  6758b4fcf4fcc7f43a08298fb16d8ac5 154 main/binary-arm64/Release
 SHA1:
- b37bb1814a2b90761937acd138e5eae3030048b4 862 main/binary-i386/Packages
- 442b8a01e22496b352900773f55569c8d6436c0d 577 main/binary-i386/Packages.gz
+ e804f1f7fc6f3d983d8d12309ec40c1bf9d0149d 862 main/binary-i386/Packages
+ 0dfe9c4d71873ae8fedd30735b1775efb44c21fe 577 main/binary-i386/Packages.gz
  d7633cd8e6d6e20ca79d4f961fc74c7f6687ae00 153 main/binary-i386/Release
- b37bb1814a2b90761937acd138e5eae3030048b4 862 main/binary-amd64/Packages
- 442b8a01e22496b352900773f55569c8d6436c0d 577 main/binary-amd64/Packages.gz
+ e804f1f7fc6f3d983d8d12309ec40c1bf9d0149d 862 main/binary-amd64/Packages
+ 0dfe9c4d71873ae8fedd30735b1775efb44c21fe 577 main/binary-amd64/Packages.gz
  a1866fb07752adedcaf4def4323e55d54d4da9b4 154 main/binary-amd64/Release
- b37bb1814a2b90761937acd138e5eae3030048b4 862 main/binary-arm64/Packages
- 442b8a01e22496b352900773f55569c8d6436c0d 577 main/binary-arm64/Packages.gz
+ e804f1f7fc6f3d983d8d12309ec40c1bf9d0149d 862 main/binary-arm64/Packages
+ 0dfe9c4d71873ae8fedd30735b1775efb44c21fe 577 main/binary-arm64/Packages.gz
  a4181215dfd9b4e9c64eef29d7a4eaa0a3a55f58 154 main/binary-arm64/Release
 SHA256:
- 7987511447ddd89b7a5407d1f3793deefb93146f6db9d05506704eb6cf9688a1 862 main/binary-i386/Packages
- 14ce10d066db1a6e5f1e1e6b36f163a2980c81057a822b640c08b9e700f7de94 577 main/binary-i386/Packages.gz
+ a3dc63fbd89d66e27dfe67348883a14a26973b053c0d29ab06ca0d380c3b7e89 862 main/binary-i386/Packages
+ 0729baa2f70358ce843b801e7cf8465591481f1ba3466f5a95495f775cd182e0 577 main/binary-i386/Packages.gz
  349303cad2161103e732794e3268d8606d19ee36b4691288974b811e40015790 153 main/binary-i386/Release
- 7987511447ddd89b7a5407d1f3793deefb93146f6db9d05506704eb6cf9688a1 862 main/binary-amd64/Packages
- 14ce10d066db1a6e5f1e1e6b36f163a2980c81057a822b640c08b9e700f7de94 577 main/binary-amd64/Packages.gz
+ a3dc63fbd89d66e27dfe67348883a14a26973b053c0d29ab06ca0d380c3b7e89 862 main/binary-amd64/Packages
+ 0729baa2f70358ce843b801e7cf8465591481f1ba3466f5a95495f775cd182e0 577 main/binary-amd64/Packages.gz
  a8ea7a4833850ad92415a49d429969540e2767a59a6ef82d96cbb2905f268cb6 154 main/binary-amd64/Release
- 7987511447ddd89b7a5407d1f3793deefb93146f6db9d05506704eb6cf9688a1 862 main/binary-arm64/Packages
- 14ce10d066db1a6e5f1e1e6b36f163a2980c81057a822b640c08b9e700f7de94 577 main/binary-arm64/Packages.gz
+ a3dc63fbd89d66e27dfe67348883a14a26973b053c0d29ab06ca0d380c3b7e89 862 main/binary-arm64/Packages
+ 0729baa2f70358ce843b801e7cf8465591481f1ba3466f5a95495f775cd182e0 577 main/binary-arm64/Packages.gz
  75a29e5c8605a8ffeb03097d3c9c85e37a277c3a2bd9c67b01e5a396877740d2 154 main/binary-arm64/Release
