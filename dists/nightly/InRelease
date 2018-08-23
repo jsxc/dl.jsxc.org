@@ -4,8 +4,8 @@ Hash: SHA512
 Origin: JSXC – The Open Chat (nightly)
 Label: JSXC – The Open Chat (nightly)
 Codename: nightly
-Date: Tue, 21 Aug 2018 12:53:25 UTC
-Architectures: i386 amd64 arm64
+Date: Thu, 23 Aug 2018 09:59:20 UTC
+Architectures: i386 amd64 arm64 arm64hf
 Components: main
 Description: Nightly apt repository for JSXC and friends
 MD5Sum:
@@ -18,6 +18,9 @@ MD5Sum:
  bb8f248b1fc106b5aba85f60d54f08ed 862 main/binary-arm64/Packages
  bdb47ccf1678cccc6a7e6fe887ede1be 577 main/binary-arm64/Packages.gz
  f23ecb37d938ca05cd5f7d8c1a57026b 174 main/binary-arm64/Release
+ bb8f248b1fc106b5aba85f60d54f08ed 862 main/binary-arm64hf/Packages
+ bdb47ccf1678cccc6a7e6fe887ede1be 577 main/binary-arm64hf/Packages.gz
+ f5add147f34596425a747bf353fc5d30 176 main/binary-arm64hf/Release
 SHA1:
  e804f1f7fc6f3d983d8d12309ec40c1bf9d0149d 862 main/binary-i386/Packages
  0dfe9c4d71873ae8fedd30735b1775efb44c21fe 577 main/binary-i386/Packages.gz
@@ -28,6 +31,9 @@ SHA1:
  e804f1f7fc6f3d983d8d12309ec40c1bf9d0149d 862 main/binary-arm64/Packages
  0dfe9c4d71873ae8fedd30735b1775efb44c21fe 577 main/binary-arm64/Packages.gz
  21408af3eb3671bb2137321211216e1628d30725 174 main/binary-arm64/Release
+ e804f1f7fc6f3d983d8d12309ec40c1bf9d0149d 862 main/binary-arm64hf/Packages
+ 0dfe9c4d71873ae8fedd30735b1775efb44c21fe 577 main/binary-arm64hf/Packages.gz
+ 2dd93feb777199e7d71b6133425b9ac060abeb57 176 main/binary-arm64hf/Release
 SHA256:
  a3dc63fbd89d66e27dfe67348883a14a26973b053c0d29ab06ca0d380c3b7e89 862 main/binary-i386/Packages
  0729baa2f70358ce843b801e7cf8465591481f1ba3466f5a95495f775cd182e0 577 main/binary-i386/Packages.gz
@@ -38,17 +44,20 @@ SHA256:
  a3dc63fbd89d66e27dfe67348883a14a26973b053c0d29ab06ca0d380c3b7e89 862 main/binary-arm64/Packages
  0729baa2f70358ce843b801e7cf8465591481f1ba3466f5a95495f775cd182e0 577 main/binary-arm64/Packages.gz
  7a5ec92f24df2bd3cf87b242964fd02dc9fb248dfcceba2fcd28ab7676776c00 174 main/binary-arm64/Release
+ a3dc63fbd89d66e27dfe67348883a14a26973b053c0d29ab06ca0d380c3b7e89 862 main/binary-arm64hf/Packages
+ 0729baa2f70358ce843b801e7cf8465591481f1ba3466f5a95495f775cd182e0 577 main/binary-arm64hf/Packages.gz
+ d16719182200a06e8529bb68c82d3f61e65114e894e13b0db491bd879555c4ac 176 main/binary-arm64hf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEUG7pMdPwr8dd7mYMUfq33f/bcV4FAlt8C0UACgkQUfq33f/b
-cV5RKAwAhBSTQwQM0qgYjnvt+Eu0tpNkR2KwMD6864SbyGO4izTqXDJiRTcnpcnR
-HI44KkCI7frCQtIGHZr5e9s3FJzTWnVIfB0npJ4SmWCcZzdTe7ACdpM1P5UmVLxA
-Q/m2rB7sZudyx6W635XyG6i5QfvOeqwSReyE344s1J+R7NhTlQ9GuSq9KzFCR1Na
-U1ZzS4Kek3pXUzHIpa40jwQ6u1RyUx71/imK2DxcQzfhjIAk3AFKDTlJAIzUDWbx
-fEom0b9dNCIpKrr1h6uqq0/r4glBqspddDofCQ1KXX8pYxZw3tnYK6L8AdI80tNP
-2/OhWVmg9BsQQV5B+fqPoPe+7bGjmS6/5roRDFLdRLSQva/P2JADoZJ0d7nd4K/9
-2XmEzPSkCYwN4mam6RI9g9voURs71UAlDYzSBRTo6166hXCNFTMkwGWSF+53ScAf
-Dj1elyZc45omhKuH273zX7y47RCDC+naQBRW+lB3h/0hjmzYv6xWVjhq3sYjaatM
-FsRZvLwp
-=w9zH
+iQGzBAEBCgAdFiEEUG7pMdPwr8dd7mYMUfq33f/bcV4FAlt+hXkACgkQUfq33f/b
+cV5pBgv+Iw6SE+pL9ze93jjk7T8jnibSNEv5nPpJeuWwvb/dHYV7bzEog9cbeuHK
+rEj46OEzIUBqdMuyGW/8gHHMsrVEb3qjW4VtLxe0C0/iCXaq67YKiRIbxHyejH1l
+SIHS5IUvxYQ/ktrfkHirbxaMLDRzFL2ko4yIt/SfyJhfUMMlHNh58q6qQ64b0Gcc
+EbLYfHFJ5A9ZMchzC01HxLh48JMM8neBkVthif0M4LMEgty2HZ7G2E0Tomkgj7qV
+pDQLGxOjYOPr7OtXZyfOqnzfiNEjfEvFp/ZBu5aeThIjlp4IofVJ+EwVa7DfAPiJ
+Hs6uGwJSiC0yU8QGoc553Kv23EyBp1doZSUcJ3MCmGNi9WhItdKsefclHwP1l91b
+8mc/mjSvt29QBqlJzgQn7PQd172rGPhf4p04n6JfTv6KbbWKd5u5cfXW81hDKQsw
+d+p1M7S1yIQoGabDVkba5hAzfCg718s8G2I7ouHbMV72YMk2ibjeO1AoLLeVOCQU
+OL4zDSBj
+=jVPW
 -----END PGP SIGNATURE-----

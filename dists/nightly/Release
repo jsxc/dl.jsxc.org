@@ -1,8 +1,8 @@
 Origin: JSXC – The Open Chat (nightly)
 Label: JSXC – The Open Chat (nightly)
 Codename: nightly
-Date: Tue, 21 Aug 2018 12:53:25 UTC
-Architectures: i386 amd64 arm64
+Date: Thu, 23 Aug 2018 09:59:20 UTC
+Architectures: i386 amd64 arm64 arm64hf
 Components: main
 Description: Nightly apt repository for JSXC and friends
 MD5Sum:
@@ -15,6 +15,9 @@ MD5Sum:
  bb8f248b1fc106b5aba85f60d54f08ed 862 main/binary-arm64/Packages
  bdb47ccf1678cccc6a7e6fe887ede1be 577 main/binary-arm64/Packages.gz
  f23ecb37d938ca05cd5f7d8c1a57026b 174 main/binary-arm64/Release
+ bb8f248b1fc106b5aba85f60d54f08ed 862 main/binary-arm64hf/Packages
+ bdb47ccf1678cccc6a7e6fe887ede1be 577 main/binary-arm64hf/Packages.gz
+ f5add147f34596425a747bf353fc5d30 176 main/binary-arm64hf/Release
 SHA1:
  e804f1f7fc6f3d983d8d12309ec40c1bf9d0149d 862 main/binary-i386/Packages
  0dfe9c4d71873ae8fedd30735b1775efb44c21fe 577 main/binary-i386/Packages.gz
@@ -25,6 +28,9 @@ SHA1:
  e804f1f7fc6f3d983d8d12309ec40c1bf9d0149d 862 main/binary-arm64/Packages
  0dfe9c4d71873ae8fedd30735b1775efb44c21fe 577 main/binary-arm64/Packages.gz
  21408af3eb3671bb2137321211216e1628d30725 174 main/binary-arm64/Release
+ e804f1f7fc6f3d983d8d12309ec40c1bf9d0149d 862 main/binary-arm64hf/Packages
+ 0dfe9c4d71873ae8fedd30735b1775efb44c21fe 577 main/binary-arm64hf/Packages.gz
+ 2dd93feb777199e7d71b6133425b9ac060abeb57 176 main/binary-arm64hf/Release
 SHA256:
  a3dc63fbd89d66e27dfe67348883a14a26973b053c0d29ab06ca0d380c3b7e89 862 main/binary-i386/Packages
  0729baa2f70358ce843b801e7cf8465591481f1ba3466f5a95495f775cd182e0 577 main/binary-i386/Packages.gz
@@ -35,3 +41,6 @@ SHA256:
  a3dc63fbd89d66e27dfe67348883a14a26973b053c0d29ab06ca0d380c3b7e89 862 main/binary-arm64/Packages
  0729baa2f70358ce843b801e7cf8465591481f1ba3466f5a95495f775cd182e0 577 main/binary-arm64/Packages.gz
  7a5ec92f24df2bd3cf87b242964fd02dc9fb248dfcceba2fcd28ab7676776c00 174 main/binary-arm64/Release
+ a3dc63fbd89d66e27dfe67348883a14a26973b053c0d29ab06ca0d380c3b7e89 862 main/binary-arm64hf/Packages
+ 0729baa2f70358ce843b801e7cf8465591481f1ba3466f5a95495f775cd182e0 577 main/binary-arm64hf/Packages.gz
+ d16719182200a06e8529bb68c82d3f61e65114e894e13b0db491bd879555c4ac 176 main/binary-arm64hf/Release
