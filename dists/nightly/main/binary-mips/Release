@@ -1,0 +1,5 @@
+Component: main
+Origin: JSXC – The Open Chat (nightly)
+Label: JSXC – The Open Chat (nightly)
+Architecture: mips
+Description: Nightly apt repository for JSXC and friends

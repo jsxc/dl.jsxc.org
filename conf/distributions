@@ -1,7 +1,7 @@
 Origin: JSXC – The Open Chat (nightly)
 Label: JSXC – The Open Chat (nightly)
 Codename: nightly
-Architectures: i386 amd64 arm64 arm64hf
+Architectures: i386 amd64 arm64 armhf mips mipsel
 Components: main
 Description: Nightly apt repository for JSXC and friends
 SignWith: 506EE931D3F0AFC75DEE660C51FAB7DDFFDB715E
@@ -9,7 +9,7 @@ SignWith: 506EE931D3F0AFC75DEE660C51FAB7DDFFDB715E
 Origin: JSXC – The Open Chat
 Label: JSXC – The Open Chat
 Codename: stable
-Architectures: i386 amd64 arm64 arm64hf
+Architectures: i386 amd64 arm64 armhf mips mipsel
 Components: main
 Description: Release apt repository for JSXC and friends
 SignWith: 506EE931D3F0AFC75DEE660C51FAB7DDFFDB715E
