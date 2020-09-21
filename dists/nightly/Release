@@ -1,7 +1,7 @@
 Origin: JSXC – The Open Chat (nightly)
 Label: JSXC – The Open Chat (nightly)
 Codename: nightly
-Date: Mon, 10 Dec 2018 16:02:52 UTC
+Date: Mon, 21 Sep 2020 14:36:48 UTC
 Architectures: i386 amd64 arm64 armhf mips mipsel
 Components: main
 Description: Nightly apt repository for JSXC and friends

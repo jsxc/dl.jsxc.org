@@ -1,10 +1,10 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 Origin: JSXC – The Open Chat (nightly)
 Label: JSXC – The Open Chat (nightly)
 Codename: nightly
-Date: Mon, 10 Dec 2018 16:02:52 UTC
+Date: Mon, 21 Sep 2020 14:36:48 UTC
 Architectures: i386 amd64 arm64 armhf mips mipsel
 Components: main
 Description: Nightly apt repository for JSXC and friends
@@ -67,15 +67,15 @@ SHA256:
  102eacddad735d2114b5c337a026dc19cc84fbea4f61b8e595b09482ad2dc23f 175 main/binary-mipsel/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEUG7pMdPwr8dd7mYMUfq33f/bcV4FAlwOji0ACgkQUfq33f/b
-cV6T3wv/ccAq0YCJRRc9rjuORLZ+DN4dfkNk4DZHQcbtPh+wL/9deYoqSxhSvwAk
-CEiibF2W2kdVxBueCZRR9u2VdyHFFmif/V2C0swM0JIgAXSP/xYZCgffYD8t4/Uq
-9TPSU11pjJ6Pw5o+TXwUVgp3cXlsvZLkIoF/I9gT5Q4HpqbgMVh7sveEB45gFQ44
-TuEVwpdcfJl+no7Mb/moBT+bAHaAthlpg/Pk86HbiSkEES2s+4kqf+enbkok/JxB
-9+89wOJL4j7u4UbfoLF+2y6lX+wRIrQv5vTKiHBa/dYDxCOkCq3aTIV1BBSDRP/C
-4FPnlYzDXCPN1pR6DF6+fKtIdC5urJuZjGFkJxkgfgjHVvJV2o0tp5r3CEYuVtFb
-jDzQdB3vsfQyr7+eDXQDFo8qR4c/lvP7pg0eHjg47MkWcDAewqDDwXrsVSYTkIJc
-ixWqxPurpVh+rBVPgfOcEZj5/w0mfvgW8Z8vyKqmi6P9eDON81tHjUzv5qTObwRl
-KIo3DSO8
-=rT92
+iQGzBAEBCAAdFiEEUG7pMdPwr8dd7mYMUfq33f/bcV4FAl9ouoEACgkQUfq33f/b
+cV5CCgv+PsWSnm+cROSaIhgxhE9JlBNG1m/s7kmfWXlDrsvHSmvFRFdHn7jTYcJQ
+nsLWWz52Qq+zB7jJDRr8pXaGjKM9KQAEcMri3Qukv81iEMa3bOOzNcg1LTN5Xjr+
+LOAg4ykhogHyhEeiIe6FfkBE2FDgwXBETKW5/TnAGoloWV067ejBQrTTYfVp7b05
+JvUzFrFLC1db6YkezGGfR3eTraV+CvsG0J50Ucq6TQ/XNVF9MpE//spyiMBwsfMA
+LZe4GaddoT9g/tTiKQO6JiqnptCi68F1DLezy7kpoNutLARcYcX6rRhdKcPdA7i7
+xSeXAkV4SbrpNYxrKYFMQb1YSY8QrdsKxnX1Tbpd22ZpAzRvzwsPFrUFACiUJ0MK
+rvLhaUT/COaKQMt2Khu+6nLi2S/ytBFfi+Eg7rpdT28C+ODHuEkiDXG9BqlIFEyk
+teapafg/ECpnIURCNa/PuhH+0sjUNXkHQAV7gyafEp29dSUuqlxC5VrnmBf8k0lC
+X9T2O1Lk
+=YxS6
 -----END PGP SIGNATURE-----
