@@ -1,64 +1,64 @@
 Origin: JSXC – The Open Chat (nightly)
 Label: JSXC – The Open Chat (nightly)
 Codename: nightly
-Date: Mon, 21 Sep 2020 14:36:48 UTC
+Date: Sun, 13 Dec 2020 15:47:14 UTC
 Architectures: i386 amd64 arm64 armhf mips mipsel
 Components: main
 Description: Nightly apt repository for JSXC and friends
 MD5Sum:
- 133f29892570ce521c35a777e4cd06bb 936 main/binary-i386/Packages
- d0ab490d70ed9ac88a2e8575a95d8c04 605 main/binary-i386/Packages.gz
+ 1788fadc9f1a13ceba27d6df9933d5a5 933 main/binary-i386/Packages
+ a9a726986336904314a5f8f455ce5f48 604 main/binary-i386/Packages.gz
  4754dee2aaa98f1a20b6278bb17d33e6 173 main/binary-i386/Release
- 133f29892570ce521c35a777e4cd06bb 936 main/binary-amd64/Packages
- d0ab490d70ed9ac88a2e8575a95d8c04 605 main/binary-amd64/Packages.gz
+ 1788fadc9f1a13ceba27d6df9933d5a5 933 main/binary-amd64/Packages
+ a9a726986336904314a5f8f455ce5f48 604 main/binary-amd64/Packages.gz
  10bb2688a512bb29e5277d594d9ab7f4 174 main/binary-amd64/Release
- 133f29892570ce521c35a777e4cd06bb 936 main/binary-arm64/Packages
- d0ab490d70ed9ac88a2e8575a95d8c04 605 main/binary-arm64/Packages.gz
+ 1788fadc9f1a13ceba27d6df9933d5a5 933 main/binary-arm64/Packages
+ a9a726986336904314a5f8f455ce5f48 604 main/binary-arm64/Packages.gz
  f23ecb37d938ca05cd5f7d8c1a57026b 174 main/binary-arm64/Release
- 133f29892570ce521c35a777e4cd06bb 936 main/binary-armhf/Packages
- d0ab490d70ed9ac88a2e8575a95d8c04 605 main/binary-armhf/Packages.gz
+ 1788fadc9f1a13ceba27d6df9933d5a5 933 main/binary-armhf/Packages
+ a9a726986336904314a5f8f455ce5f48 604 main/binary-armhf/Packages.gz
  a197da648e6943d6e7e018708cad2a49 174 main/binary-armhf/Release
- 133f29892570ce521c35a777e4cd06bb 936 main/binary-mips/Packages
- d0ab490d70ed9ac88a2e8575a95d8c04 605 main/binary-mips/Packages.gz
+ 1788fadc9f1a13ceba27d6df9933d5a5 933 main/binary-mips/Packages
+ a9a726986336904314a5f8f455ce5f48 604 main/binary-mips/Packages.gz
  a3a889f9ce21be12574559b24ab50087 173 main/binary-mips/Release
- 133f29892570ce521c35a777e4cd06bb 936 main/binary-mipsel/Packages
- d0ab490d70ed9ac88a2e8575a95d8c04 605 main/binary-mipsel/Packages.gz
+ 1788fadc9f1a13ceba27d6df9933d5a5 933 main/binary-mipsel/Packages
+ a9a726986336904314a5f8f455ce5f48 604 main/binary-mipsel/Packages.gz
  46226d6c9197924b496d707237b83147 175 main/binary-mipsel/Release
 SHA1:
- c994f234b3c201b2042ec7a6b6299760acb98796 936 main/binary-i386/Packages
- 0df99d5c592e0c1e65d5a9e0a479899add8bf076 605 main/binary-i386/Packages.gz
+ 3a450f3df9801e87603397e655d8a2192cfb251e 933 main/binary-i386/Packages
+ cb8ba1a484261b34345ceb5dda5a7759f0a9a605 604 main/binary-i386/Packages.gz
  741687df09f3d1e3fa683e1fd60ab301ab8067cf 173 main/binary-i386/Release
- c994f234b3c201b2042ec7a6b6299760acb98796 936 main/binary-amd64/Packages
- 0df99d5c592e0c1e65d5a9e0a479899add8bf076 605 main/binary-amd64/Packages.gz
+ 3a450f3df9801e87603397e655d8a2192cfb251e 933 main/binary-amd64/Packages
+ cb8ba1a484261b34345ceb5dda5a7759f0a9a605 604 main/binary-amd64/Packages.gz
  448660ab1d91e99c74a20c091adbf3fd1734ee10 174 main/binary-amd64/Release
- c994f234b3c201b2042ec7a6b6299760acb98796 936 main/binary-arm64/Packages
- 0df99d5c592e0c1e65d5a9e0a479899add8bf076 605 main/binary-arm64/Packages.gz
+ 3a450f3df9801e87603397e655d8a2192cfb251e 933 main/binary-arm64/Packages
+ cb8ba1a484261b34345ceb5dda5a7759f0a9a605 604 main/binary-arm64/Packages.gz
  21408af3eb3671bb2137321211216e1628d30725 174 main/binary-arm64/Release
- c994f234b3c201b2042ec7a6b6299760acb98796 936 main/binary-armhf/Packages
- 0df99d5c592e0c1e65d5a9e0a479899add8bf076 605 main/binary-armhf/Packages.gz
+ 3a450f3df9801e87603397e655d8a2192cfb251e 933 main/binary-armhf/Packages
+ cb8ba1a484261b34345ceb5dda5a7759f0a9a605 604 main/binary-armhf/Packages.gz
  194bd20f3d5880a4878aea1fdc9ac8402f3c6871 174 main/binary-armhf/Release
- c994f234b3c201b2042ec7a6b6299760acb98796 936 main/binary-mips/Packages
- 0df99d5c592e0c1e65d5a9e0a479899add8bf076 605 main/binary-mips/Packages.gz
+ 3a450f3df9801e87603397e655d8a2192cfb251e 933 main/binary-mips/Packages
+ cb8ba1a484261b34345ceb5dda5a7759f0a9a605 604 main/binary-mips/Packages.gz
  000b583db7c1e9547e89e83a9dfab77063d7bea5 173 main/binary-mips/Release
- c994f234b3c201b2042ec7a6b6299760acb98796 936 main/binary-mipsel/Packages
- 0df99d5c592e0c1e65d5a9e0a479899add8bf076 605 main/binary-mipsel/Packages.gz
+ 3a450f3df9801e87603397e655d8a2192cfb251e 933 main/binary-mipsel/Packages
+ cb8ba1a484261b34345ceb5dda5a7759f0a9a605 604 main/binary-mipsel/Packages.gz
  e494c23a43b1693f0010f6f69aac14f1c9ebfa08 175 main/binary-mipsel/Release
 SHA256:
- 7ac30fbedc7a69d0646c5a2c2ff54a2bf39a4c8eca5cd283c070fa28be68ea58 936 main/binary-i386/Packages
- 29b30a43e9e4d2ea9cc9bb910f70c917a9c1b5d971736b17b1613e0d4052ef80 605 main/binary-i386/Packages.gz
+ fcbdaef86c8eb049443d8fb2114c5035c78c086ce45d352b08944596ad50cf6b 933 main/binary-i386/Packages
+ 6b8a062ae8e1b75055a5923c74eefc27e2a4947354fbc8204e92c6944b6b65c5 604 main/binary-i386/Packages.gz
  1825446a265da3b4db880a39fbab88d1db72a0ca78d9c284748fc231b51be5eb 173 main/binary-i386/Release
- 7ac30fbedc7a69d0646c5a2c2ff54a2bf39a4c8eca5cd283c070fa28be68ea58 936 main/binary-amd64/Packages
- 29b30a43e9e4d2ea9cc9bb910f70c917a9c1b5d971736b17b1613e0d4052ef80 605 main/binary-amd64/Packages.gz
+ fcbdaef86c8eb049443d8fb2114c5035c78c086ce45d352b08944596ad50cf6b 933 main/binary-amd64/Packages
+ 6b8a062ae8e1b75055a5923c74eefc27e2a4947354fbc8204e92c6944b6b65c5 604 main/binary-amd64/Packages.gz
  6398e912d5ea48f6ae37511ba9b7065cfdbd4adf0286cdfb417cfa85687876a6 174 main/binary-amd64/Release
- 7ac30fbedc7a69d0646c5a2c2ff54a2bf39a4c8eca5cd283c070fa28be68ea58 936 main/binary-arm64/Packages
- 29b30a43e9e4d2ea9cc9bb910f70c917a9c1b5d971736b17b1613e0d4052ef80 605 main/binary-arm64/Packages.gz
+ fcbdaef86c8eb049443d8fb2114c5035c78c086ce45d352b08944596ad50cf6b 933 main/binary-arm64/Packages
+ 6b8a062ae8e1b75055a5923c74eefc27e2a4947354fbc8204e92c6944b6b65c5 604 main/binary-arm64/Packages.gz
  7a5ec92f24df2bd3cf87b242964fd02dc9fb248dfcceba2fcd28ab7676776c00 174 main/binary-arm64/Release
- 7ac30fbedc7a69d0646c5a2c2ff54a2bf39a4c8eca5cd283c070fa28be68ea58 936 main/binary-armhf/Packages
- 29b30a43e9e4d2ea9cc9bb910f70c917a9c1b5d971736b17b1613e0d4052ef80 605 main/binary-armhf/Packages.gz
+ fcbdaef86c8eb049443d8fb2114c5035c78c086ce45d352b08944596ad50cf6b 933 main/binary-armhf/Packages
+ 6b8a062ae8e1b75055a5923c74eefc27e2a4947354fbc8204e92c6944b6b65c5 604 main/binary-armhf/Packages.gz
  285a85c94184dda384af70ab82bfa1826e72c9d23ed4ebd2c0baa78861b3c991 174 main/binary-armhf/Release
- 7ac30fbedc7a69d0646c5a2c2ff54a2bf39a4c8eca5cd283c070fa28be68ea58 936 main/binary-mips/Packages
- 29b30a43e9e4d2ea9cc9bb910f70c917a9c1b5d971736b17b1613e0d4052ef80 605 main/binary-mips/Packages.gz
+ fcbdaef86c8eb049443d8fb2114c5035c78c086ce45d352b08944596ad50cf6b 933 main/binary-mips/Packages
+ 6b8a062ae8e1b75055a5923c74eefc27e2a4947354fbc8204e92c6944b6b65c5 604 main/binary-mips/Packages.gz
  1ef8b22713252a8d8ee65700849c6da5a43bf28559b2733b26174abbe15f697d 173 main/binary-mips/Release
- 7ac30fbedc7a69d0646c5a2c2ff54a2bf39a4c8eca5cd283c070fa28be68ea58 936 main/binary-mipsel/Packages
- 29b30a43e9e4d2ea9cc9bb910f70c917a9c1b5d971736b17b1613e0d4052ef80 605 main/binary-mipsel/Packages.gz
+ fcbdaef86c8eb049443d8fb2114c5035c78c086ce45d352b08944596ad50cf6b 933 main/binary-mipsel/Packages
+ 6b8a062ae8e1b75055a5923c74eefc27e2a4947354fbc8204e92c6944b6b65c5 604 main/binary-mipsel/Packages.gz
  102eacddad735d2114b5c337a026dc19cc84fbea4f61b8e595b09482ad2dc23f 175 main/binary-mipsel/Release
